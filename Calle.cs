@@ -1,4 +1,4 @@
-﻿namespace Ex03_PavimentacionCalles
+﻿namespace PavimentacionCalles
 {
     public class Calle
     {

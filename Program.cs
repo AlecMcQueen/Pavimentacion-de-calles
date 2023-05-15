@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ex03_PavimentacionCalles
+namespace PavimentacionCalles
 {
     public class Program
     {
@@ -81,7 +81,7 @@ namespace Ex03_PavimentacionCalles
 
         }
 
-        static int[] TotalizaAfectacionesPorDeterioro(Calle[] lasCalles, string[] losDeterioros)
+        public static int[] TotalizaAfectacionesPorDeterioro(Calle[] lasCalles, string[] losDeterioros)
         {
             int[] totalAfectaciones = new int[losDeterioros.Length];
 
@@ -93,7 +93,7 @@ namespace Ex03_PavimentacionCalles
             return totalAfectaciones;
         }
 
-        static double[] ObtieneCantidadCallePavimentadaPorDeterioro(Calle[] lasCalles, string[] losDeterioros)
+        public static double[] ObtieneCantidadCallePavimentadaPorDeterioro(Calle[] lasCalles, string[] losDeterioros)
         {
             double[] cantidades = new double[losDeterioros.Length];
 
@@ -108,7 +108,7 @@ namespace Ex03_PavimentacionCalles
             return cantidades;
         }
 
-        static double[] ObtieneLongitudPromedioTramosPorDeterioro(Calle[] lasCalles, string[] losDeterioros)
+        public static double[] ObtieneLongitudPromedioTramosPorDeterioro(Calle[] lasCalles, string[] losDeterioros)
         {
             double[] longitudesPromedio = new double[losDeterioros.Length];
             int[] totalAfectaciones = TotalizaAfectacionesPorDeterioro(lasCalles, losDeterioros);

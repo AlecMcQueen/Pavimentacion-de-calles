@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.AssemblyInfo.cs
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\bin\Debug\net6.0\PavimentacionCalles.exe
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\bin\Debug\net6.0\PavimentacionCalles.deps.json
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\bin\Debug\net6.0\PavimentacionCalles.runtimeconfig.json
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\bin\Debug\net6.0\PavimentacionCalles.dll
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\bin\Debug\net6.0\PavimentacionCalles.pdb
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.dll
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\refint\PavimentacionCalles.dll
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.pdb
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\PavimentacionCalles.genruntimeconfig.cache
+C:\Users\User\Desktop\Escritorio\U\prog\Pavimentaciondecallesfinal\Pavimentacion-de-calles\obj\Debug\net6.0\ref\PavimentacionCalles.dll
